@@ -39,6 +39,7 @@ class _CancelOrderState extends State<CancelOrder> {
                             itemBuilder: (context, index) {
                               return NewTile(
                                 offer: controller.offer,
+                                index: index,
                               );
                             });
                       }),

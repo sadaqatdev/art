@@ -1,6 +1,5 @@
 import 'package:art/views/screens/splash.dart';
 import 'package:flutter/material.dart';
-
 import 'views/screens/Artist/Artconfirmation.dart';
 import 'views/screens/Artist/artist_login.dart';
 import 'views/screens/Artist/profile_update.dart';

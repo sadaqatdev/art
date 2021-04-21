@@ -35,6 +35,7 @@ class NewArt extends StatelessWidget {
               return SingleChildScrollView(
                   child: Container(
                 width: width / 1.1,
+                margin: EdgeInsets.only(left: 12),
                 child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [

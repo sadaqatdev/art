@@ -2,8 +2,6 @@ import 'package:art/views/widgets/button.dart';
 import 'package:art/views/widgets/colors.dart';
 import 'package:flutter/material.dart';
 
-import 'Artist/artist_login.dart';
-
 class SelectUser extends StatefulWidget {
   @override
   _SelectUserState createState() => _SelectUserState();

@@ -4,7 +4,6 @@ import 'package:art/views/screens/Customer/profile_update.dart';
 import 'package:art/views/screens/customer/privacy_and_security.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-
 import 'about_us.dart';
 import 'help_and_support.dart';
 import 'notification.dart';
